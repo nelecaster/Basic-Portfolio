@@ -1,0 +1,140 @@
+#TopBarDiv {
+    background-color: #fefdfd;
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    border-bottom-color: black;
+    border-bottom-width: 10px;
+}
+
+#nameDiv {
+    position: absolute;
+    top: 0%;
+    left: 20%;
+    width: 170px;
+    height: 70px;
+    background-color: #4aaaa5
+}
+
+h1 {
+    position: absolute;
+    margin: 0 auto;
+    font-size: 25px;
+    color: ghostwhite;
+    left: 23.25%;
+    top: 20px;
+}
+
+body {
+    background-image: url(../images/wheat.png)
+}
+
+.mainSection {
+    width: 60%;
+    height: 350px;
+    background-color: #fefdfd;
+    top: 15%;
+    position: relative;
+    left: 20%;
+    margin-top: 10%;
+}
+
+
+
+.t1 {
+    position: absolute;
+    width: 90%;
+    left: 5%;
+    height: 15px;
+    top: 26%;
+}
+
+.t2 {
+    position: absolute;
+    width: 90%;
+    left: 5%;
+    height: 15px;
+    top: 41%;
+}
+
+.t3 {
+    position: absolute;
+    width: 90%;
+    left: 5%;
+    height: 30%;
+    top: 56%;
+}
+
+h2 {
+    left: 5%;
+    top: 5%;
+    position: absolute;
+    margin: 0%;
+    color: #4aaaa5;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: #777777;
+}
+
+.line {
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    color: #777777;
+}
+
+
+.name {
+    position: absolute;
+    left: 5%;
+    top: 15%;
+}
+
+.email {
+    position: absolute;
+    left: 5%;
+    top: 30%;
+}
+
+.message {
+    position: absolute;
+    left: 5%;
+    top: 45%;
+}
+
+.button {
+    position: absolute;
+    left: 5%;
+    top: 91%;
+}
+
+#navbuttons {
+    position: fixed;
+    top: 3.5%;
+    right: 3%;
+    color: #9f9c9c;
+}
+
+.footer {
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    background-color: #9f9c9c;
+    border-top-color: #4aaaa5;
+    border-top-width: thick;
+    border-top-style: solid;
+}
+
+h4 {
+    text-align: center;
+    color: #fefdfd;
+    font-size: 10px;
+}
+
