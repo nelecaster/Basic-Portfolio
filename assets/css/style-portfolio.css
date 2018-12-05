@@ -46,6 +46,7 @@ h3 {
     width: 20%;
     text-align: center;
     font-size: small;
+    font-family: sans-serif;
 }
 
 h4 {
@@ -57,7 +58,8 @@ h4 {
 h5 {
     text-align: center;
     color: #fefdfd;
-
+    font-size: 10px;
+    font-family: sans-serif;
 }
 
 body {
